@@ -73,6 +73,7 @@
 
 @font-face {
     font-family: "myfonts";
+    src: url(./fonts/SIL\ Open\ Font\ License.txt);
     src: url(./fonts/Courier\ Prime\ Code\ Italic.ttf);
 }
 .bodyText{
